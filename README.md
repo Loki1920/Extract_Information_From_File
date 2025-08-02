@@ -53,7 +53,7 @@ The notebook provides clear instructions and allows easy upload and download of 
 
 ## 🚀 How to Run
 
-1. Open the Colab notebook (_insert link here_) or run the Python script.  
+1. Open the Colab notebook (https://colab.research.google.com/drive/1V2W7NmQ9FDAMPUp2t8A-uHosYKPLOa4y?usp=sharing) or run the Python script.  
 2. Upload your document (PDF, DOCX, or TXT) when prompted.  
 3. The code extracts text from each page and sends it to the LLM for parsing.  
 4. Every page is processed:  
@@ -101,8 +101,8 @@ The notebook provides clear instructions and allows easy upload and download of 
 
 For any questions or clarifications, please contact:
 
-**[Your Name]**  
-Email/GitHub: [Your Email or GitHub profile]
+**[Lucky Tiwari**  
+Email : luckysandilya19@gmail.com
 
 ---
 
