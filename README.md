@@ -101,7 +101,7 @@ The notebook provides clear instructions and allows easy upload and download of 
 
 For any questions or clarifications, please contact:
 
-**[Lucky Tiwari**  
+**Lucky Tiwari**  
 Email : luckysandilya19@gmail.com
 
 ---
